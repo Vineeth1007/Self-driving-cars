@@ -1,0 +1,10 @@
+# Packages imported by traffic-sign-classifier.ipynb.
+# The notebook uses legacy APIs (tensorflow.contrib, tf.concat(axis, values),
+# keras.preprocessing.image.ImageDataGenerator) and needs a matching old
+# TensorFlow/Keras release; see README.md. Jupyter is needed to open it.
+numpy
+matplotlib
+opencv-python
+scikit-learn
+keras
+tensorflow

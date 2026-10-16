@@ -1,0 +1,5 @@
+# Packages imported by train.py, test.py and the classifier/dataset modules.
+# The code uses TensorFlow 1.x APIs (placeholders, tf.layers, tf.contrib); see README.md.
+numpy
+opencv-python
+tensorflow

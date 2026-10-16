@@ -1,0 +1,9 @@
+# Packages imported by main.py, helper.py, image_augmentation.py and project_tests.py.
+# main.py asserts TensorFlow >= 1.0; helper.py uses scipy.misc.imread/imresize,
+# which only exist in old SciPy releases (see README.md).
+tensorflow>=1.0
+numpy
+scipy
+opencv-python
+matplotlib
+tqdm

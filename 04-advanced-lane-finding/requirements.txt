@@ -1,0 +1,5 @@
+# Packages imported by main.py and the *_utils.py modules
+numpy
+opencv-python
+matplotlib
+moviepy

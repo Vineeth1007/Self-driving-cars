@@ -1,0 +1,10 @@
+# Packages imported by the scripts in this folder.
+# SSD.py uses Keras 1.x layers (AtrousConvolution2D, merge); see README.md.
+numpy
+scipy
+opencv-python
+matplotlib
+scikit-image
+scikit-learn
+keras
+tensorflow

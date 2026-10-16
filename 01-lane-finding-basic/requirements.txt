@@ -1,0 +1,4 @@
+# Packages imported by main.py, lane_detection.py and Line.py
+numpy
+opencv-python
+matplotlib
